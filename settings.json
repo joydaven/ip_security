@@ -1,0 +1,9 @@
+{
+    "geoname_ids": [1861060],
+    "csv_file": "ips.csv",
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "",
+    "database": "scandb",
+    "port": 3306
+}
